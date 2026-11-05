@@ -7,3 +7,4 @@ git commit -m "Vytvoření externího souboru style.css a nastavení tmavého po
 git commit -m "Stylizace hlavičky a navigačního menu v CSS"
 git commit -m "Vytvoření druhé stránky galerie.html s odkazy v menu"
 git commit -m "Přidání stylů pro rozvržení obrázků v galerii"
+git commit -m "Vytvoření třetí stránky kontakt.html o projektu"
